@@ -10,8 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-three/drei": "^9.96.5",
+    "@react-three/fiber": "^8.15.15",
+    "expo": "^50.0.0",
+    "expo-gl": "^13.6.0",
+    "r3f-native-orbitcontrols": "^1.0.9",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-vector-icons": "^10.0.3",
+    "three": "^0.160.1",
+    "twrnc": "^3.6.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
